@@ -4,6 +4,10 @@
   "description": "Jest matcher for pdf comparison",
   "main": "src/index.js",
   "repository": "https://github.com/zeptometer/jest-pdf-snapshot.git",
+  "homepage": "https://github.com/zeptometer/jest-pdf-snapshot#readme",
+  "bugs": {
+    "url": "https://github.com/zeptometer/jest-pdf-snapshot/issues"
+  },
   "author": "Yuito Murase <yuito@acupof.coffee>",
   "license": "MIT",
   "private": false,
